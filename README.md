@@ -6,13 +6,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/MFaramawy?label=Follow&style=social)
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=MFaramawy&color=brightgreen">  
 
-![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
+![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://raw.githubusercontent.com/MFaramawy/MFaramawy/master/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png)
 
 ## 👨🏻‍💻 &nbsp;About Me
 
 ## I'm a Flutter Developer !!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/MFaramawy/MFaramawy/master/animation_500_kxa883sd.gif" align="right"/>
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
