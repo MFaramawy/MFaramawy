@@ -41,6 +41,19 @@
 <!-- - Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
 - - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
 - Sharing updates on <a href="https://www.linkedin.com/in/faramawy-deve/">LinkedIn</a> 😇  </p>  
+- 
+
+<hr>
+
+<h2> Samples from my projects </h2>
+
+### Medical Empire
+Medicalempire.com is the leading e-commerce in health products market. With a convenient platform for both seller and buyer.<br />
+Medicalempire.com Provides you a reliable shopping experience in one place with a wide range of products Homecare ,Wellness, Nutrition ,Fitness, Medical Equipment, Medical references ,Books, Consumables & Veterinary.
+<p><a href="https://play.google.com/store/apps/details?id=com.medicalempire.medical" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/medical-empire/id1465106135" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+
+<hr>
+
 <hr>
 
 It is an e-commerce platform for the registered clients of Lacrima Dairy Industrial Ltd, the leading registered company in the Hashemite Kingdom of Jordan.<br />
