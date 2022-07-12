@@ -51,8 +51,9 @@
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=MFaramawy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="MFaramawy" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFaramawy&layout=compact&theme=radical&hide_border=true" alt="MFaramawy" /></p>
 
-
 <hr>
+
+<h2> Samples from my projects </h2>
 
 It is an e-commerce platform for the registered clients of Lacrima Dairy Industrial Ltd, the leading registered company in the Hashemite Kingdom of Jordan.<br />
 Enjoy the ease & convenience of ordering Làcrima Dairy Industrial Ltd Products for your business needs directly. An e commerce platform for registered Làcrima Dairy Industrial Ltd customers. Also allows you to send registration request & enquiries,
