@@ -50,7 +50,6 @@
 
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=MFaramawy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="MFaramawy" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFaramawy&layout=compact&theme=radical&hide_border=true" alt="MFaramawy" /></p>
-
 <hr>
 
 <h2> Samples from my projects </h2>
