@@ -37,11 +37,20 @@
 
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/yassin-abdulmahdi/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/moataz-faramawy-aaa174188/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 <!-- - Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
 - - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
-- Sharing updates on <a href="https://www.linkedin.com/in/moataz-faramawy-aaa174188/">LinkedIn</a> 😇 -->
-##
+- Sharing updates on <a href="https://www.linkedin.com/in/moataz-faramawy-aaa174188/">LinkedIn</a> 😇
+
+
+
+
+
+
+
+
+
+
 <h2> Samples from my projects <h2 />
 <hr>
 
