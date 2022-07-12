@@ -37,7 +37,7 @@
 
 <hr>
 
-> - <h2> Samples from my projects </h2>
+ - <h2> Samples from my projects </h2>
 
 ### Làcrima
 
