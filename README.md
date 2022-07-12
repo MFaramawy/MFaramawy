@@ -42,7 +42,7 @@
 - - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
 - Sharing updates on <a href="https://www.linkedin.com/in/moataz-faramawy-aaa174188/">LinkedIn</a> 😇
 
-<hr> Samples from my projects <hr>
+<h2> Samples from my projects <h2 />
 <hr>
 
 It is an e-commerce platform for the registered clients of Lacrima Dairy Industrial Ltd, the leading registered company in the Hashemite Kingdom of Jordan.<br />
