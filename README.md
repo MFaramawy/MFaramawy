@@ -42,14 +42,6 @@
 - - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
 - Sharing updates on <a href="https://www.linkedin.com/in/moataz-faramawy-aaa174188/">LinkedIn</a> 😇
 
-
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
-
-
-
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=MFaramawy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="MFaramawy" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFaramawy&layout=compact&theme=radical&hide_border=true" alt="MFaramawy" /></p>
 <hr>
 
 <h2> Samples from my projects </h2>
@@ -60,3 +52,14 @@ For Restaurants, Cafes, Hotels, Quick Service Restaurants, Fast Food Outlets, Ba
 <p><a href="https://play.google.com/store/apps/details?id=com.Lacrima.lacrima" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.Lacrima.lacrima" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <hr>
+
+
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
+
+
+
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=MFaramawy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="MFaramawy" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFaramawy&layout=compact&theme=radical&hide_border=true" alt="MFaramawy" /></p>
+
