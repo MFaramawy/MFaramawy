@@ -40,11 +40,11 @@
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/faramawy-deve/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> <br />
 <!-- - Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
 - - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
-- Sharing updates on <a href="https://www.linkedin.com/in/faramawy-deve/">LinkedIn</a> 😇  </p>
+- Sharing updates on <a href="https://www.linkedin.com/in/faramawy-deve/">LinkedIn</a> 😇  <br />
   
 <hr>
 
-<h2> Samples from my projects </h2>
+- <h2> Samples from my projects </h2>
 
 It is an e-commerce platform for the registered clients of Lacrima Dairy Industrial Ltd, the leading registered company in the Hashemite Kingdom of Jordan.<br />
 Enjoy the ease & convenience of ordering Làcrima Dairy Industrial Ltd Products for your business needs directly. An e commerce platform for registered Làcrima Dairy Industrial Ltd customers. Also allows you to send registration request & enquiries,
