@@ -41,7 +41,7 @@
 <!-- - Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
 - - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
 - Sharing updates on <a href="https://www.linkedin.com/in/faramawy-deve/">LinkedIn</a> 😇  </p>
-
+  
 <hr>
 
 <h2> Samples from my projects </h2>
