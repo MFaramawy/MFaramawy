@@ -37,10 +37,7 @@
 
 
 
-## Find me around the web 🌎 <a href="https://www.linkedin.com/in/faramawy-deve/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> <br />
-<!-- - Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
-- - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
-- Sharing updates on <a href="https://www.linkedin.com/in/faramawy-deve/">LinkedIn</a> 😇  <br /> <br /> <br /> <br />
+  <br /> <br /> <br /> <br />
 <hr>
 <h2> Samples from my projects </h2>
 
@@ -52,6 +49,11 @@ For Restaurants, Cafes, Hotels, Quick Service Restaurants, Fast Food Outlets, Ba
 <p><a href="https://play.google.com/store/apps/details?id=com.Lacrima.lacrima" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.Lacrima.lacrima" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
   
 <hr>
+
+## Find me around the web 🌎 <a href="https://www.linkedin.com/in/faramawy-deve/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> <br />
+<!-- - Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
+- - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
+- Sharing updates on <a href="https://www.linkedin.com/in/faramawy-deve/">LinkedIn</a> 😇
 
 ## Watch my contributions get eaten by a snake 🐍
 ![snake gif](https://user-images.githubusercontent.com/88105077/166116856-9251de7f-d2df-46fd-901b-5920e8047e52.svg)
