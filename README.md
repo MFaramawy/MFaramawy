@@ -43,7 +43,7 @@
 - Sharing updates on <a href="https://www.linkedin.com/in/faramawy-deve/">LinkedIn</a> 😇 <br />
 <br />
 <hr>
-
+<br />
 - <h2> Samples from my projects </h2>
 
 It is an e-commerce platform for the registered clients of Lacrima Dairy Industrial Ltd, the leading registered company in the Hashemite Kingdom of Jordan.<br />
