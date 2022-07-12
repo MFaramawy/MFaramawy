@@ -40,18 +40,7 @@
 ## Find me around the web 🌎 <a href="https://www.linkedin.com/in/faramawy-deve/"><img align="left" width="150" height="146" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a> <br />
 <!-- - Practising on <a href="https://codeforces.com/profile/Yassin52">Codeforces</a> 🙃
 - - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
-- Sharing updates on <a href="https://www.linkedin.com/in/faramawy-deve/">LinkedIn</a> 😇 <br /> <br /> <br /> <br />
-<hr>
-<h2> Samples from my projects </h2>
-
-### Làcrima
-
-It is an e-commerce platform for the registered clients of Lacrima Dairy Industrial Ltd, the leading registered company in the Hashemite Kingdom of Jordan.<br />
-Enjoy the ease & convenience of ordering Làcrima Dairy Industrial Ltd Products for your business needs directly. An e commerce platform for registered Làcrima Dairy Industrial Ltd customers. Also allows you to send registration request & enquiries,
-For Restaurants, Cafes, Hotels, Quick Service Restaurants, Fast Food Outlets, Bakeries & Caterers, GCC wide..
-<p><a href="https://play.google.com/store/apps/details?id=com.Lacrima.lacrima" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.Lacrima.lacrima" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
-  
-<hr>
+- Sharing updates on <a href="https://www.linkedin.com/in/faramawy-deve/">LinkedIn</a> 😇 
 
 
 
@@ -63,3 +52,15 @@ For Restaurants, Cafes, Hotels, Quick Service Restaurants, Fast Food Outlets, Ba
 <p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=MFaramawy&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="MFaramawy" /></p>
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=MFaramawy&layout=compact&theme=radical&hide_border=true" alt="MFaramawy" /></p>
 
+<br /> <br /> <br /> <br />
+<hr>
+<h2> Samples from my projects </h2>
+
+### Làcrima
+
+It is an e-commerce platform for the registered clients of Lacrima Dairy Industrial Ltd, the leading registered company in the Hashemite Kingdom of Jordan.<br />
+Enjoy the ease & convenience of ordering Làcrima Dairy Industrial Ltd Products for your business needs directly. An e commerce platform for registered Làcrima Dairy Industrial Ltd customers. Also allows you to send registration request & enquiries,
+For Restaurants, Cafes, Hotels, Quick Service Restaurants, Fast Food Outlets, Bakeries & Caterers, GCC wide..
+<p><a href="https://play.google.com/store/apps/details?id=com.Lacrima.lacrima" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://play.google.com/store/apps/details?id=com.Lacrima.lacrima" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a>
+  
+<hr>
