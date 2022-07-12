@@ -42,8 +42,9 @@
 - - Practising on <a href="https://leetcode.com/Yassin52/">LeetcoCode</a> 🙃 -->
 - Sharing updates on <a href="https://www.linkedin.com/in/faramawy-deve/">LinkedIn</a> 😇 <br /> <br /> <br /> <br />
 <hr>
-<h2> Samples from my projects </h2>
+- Samples from my projects
 <hr>
+### Làcrima
 It is an e-commerce platform for the registered clients of Lacrima Dairy Industrial Ltd, the leading registered company in the Hashemite Kingdom of Jordan.<br />
 Enjoy the ease & convenience of ordering Làcrima Dairy Industrial Ltd Products for your business needs directly. An e commerce platform for registered Làcrima Dairy Industrial Ltd customers. Also allows you to send registration request & enquiries,
 For Restaurants, Cafes, Hotels, Quick Service Restaurants, Fast Food Outlets, Bakeries & Caterers, GCC wide..
