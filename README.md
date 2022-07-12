@@ -12,7 +12,7 @@
 
 ## I'm a Flutter Developer !!
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/MFaramawy/MFaramawy/master/animation_500_kxa883sd.gif" align="right"/>
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/MFaramawy/MFaramawy/master/animation_500_kxa883sd.gif" align="right"/> -->
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
